@@ -1,10 +1,10 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "hdiiofficial"
   },
   "options": {
-    "autoRead": false,
+    "autoRead": true,
     "self": false,
     "mute": false,
     "limitCount": 20,
